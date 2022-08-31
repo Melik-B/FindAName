@@ -51,6 +51,6 @@ Hello, this simple console project you have seen will search the names written i
 
 Melik Baykal - [@lilMellik](https://twitter.com/lilMellik) - melikbaykal06@gmail.com
 
-Project Link: [UpperCase LowerCase](https://github.com/Melik-B/UppercaseLowercase)
+Project Link: [Find A Name](https://github.com/Melik-B/FindAName)
 
 <p align="right">-Melik Baykal</p>
