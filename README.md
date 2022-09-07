@@ -53,4 +53,4 @@ Melik Baykal - [@lilMellik](https://twitter.com/lilMellik) - melikbaykal06@gmail
 
 Project Link: [Find A Name](https://github.com/Melik-B/FindAName)
 
-<p align="right">-Melik Baykal</p>
+<p align="right">-Melik Bayka</p>
